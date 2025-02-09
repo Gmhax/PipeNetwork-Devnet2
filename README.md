@@ -46,7 +46,7 @@ chmod +x pop
 
 5. Sign Up and Start the Node:
 ```
-./pop --signup-by-referral-route 9ce6d2351acf8d1f
+./pop --signup-by-referral-route 8a6ebea6033a7a07
 ```
 
 6. Configure the Pipe Network Service:
